@@ -1,4 +1,4 @@
-# For TEST!
+# Standard
 
  - npm i
  - npm start
